@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J84CKJ62ZS.com.getgather.genie",
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "J84CKJ62ZS.com.getgather.genie"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "J84CKJ62ZS.com.getgather.genie"
+    ]
+  }
+}
